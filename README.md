@@ -39,7 +39,7 @@ KAIST 대학원 총학생회 중앙운영위원회 신입위원 가이드라인
     |:---:|:---:|:---:|---|
     | [**학생총회**](https://github.com/kaistgsa/organization-bylaw/blob/main/한국과학기술원-대학원-학생회칙.md#제2장-학생총회) | - | - | 대학원 총학생회 최고의결기관으로 대전 본원 소속의 석, 박사과정 학생(재학/휴학생)으로 구성됨. 학생총투표, 선거관리위원회 등을 포함 |
     | [**학생 회장단**](https://github.com/kaistgsa/organization-bylaw/blob/main/한국과학기술원-대학원-학생회칙.md#제4장-학생회장단) | - | 산하기구 |  학생회장, 부학생회장(한 명 혹은 두 명) |
-    | [**학생회 집행부원**](https://github.com/kaistgsa/organization-bylaw/blob/main/한국과학기술원-대학원-학생회칙.md#제5장-집행부) | - | 산하기구 |  ⭐️최고집행기구⭐️ 학생회장, 부학생회장, 각부 부장 및 임원 |
+    | [**학생회 집행부**](https://github.com/kaistgsa/organization-bylaw/blob/main/한국과학기술원-대학원-학생회칙.md#제5장-집행부) | - | 산하기구 |  ⭐️최고집행기구⭐️ 각 국 국장, 부장 |
     | [**중앙운영위원회**](https://github.com/kaistgsa/organization-bylaw/blob/main/한국과학기술원-대학원-학생회칙.md#제3장-중앙운영위원회) | 중운위 | 산하기구 |  학생총회의 결정권을 위임받을 수 있는 의결기구. 학생회장단, 학생 자치단체와 학과의 대표자들로 구성 |
     | [**대학원생 인권센터**](https://github.com/kaistgsa/organization-bylaw/blob/main/한국과학기술원-대학원-인권센터-회칙.md) | - | 산하기구 | 대학원생 학우들의 인권에 관련된 전반적인 사항들을 개선하기 위해 설립된 ⭐️학생 자치기구⭐️ |
     | [**대학원 동아리연합회**](https://github.com/kaistgsa/organization-bylaw/blob/main/한국과학기술원-대학원-동아리연합회-회칙.md) | 동연 | 산하기구 | 대학원생 동아리 활동을 할 수 있도록 재정적, 행정적 지원을 수행 |
